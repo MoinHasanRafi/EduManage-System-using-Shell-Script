@@ -18,5 +18,5 @@ Features
            
 Roles
 
-Admin: Enter the admin credentials (admin:admin123 by default) to access the Admin Panel.
-User: Log in with your assigned username and password to access the User Panel.
+1. Admin: Enter the admin credentials (admin:admin123 by default) to access the Admin Panel.
+2. User: Log in with your assigned username and password to access the User Panel.
